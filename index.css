@@ -1,0 +1,18 @@
+*{
+    zoom:130%;
+}
+
+body{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+#text{
+    width: 747px; height: 294px;
+}
+
+input[type=number] {
+    border: none;
+    border-bottom: 2px solid red;
+}
